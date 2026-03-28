@@ -4,8 +4,8 @@
 - User Authentication:
 Login system with predefined users: Admin, Teacher, and Student.
 - Student Management:
- 1. Add new students with unique IDs
- 2. Store student profiles and GPA
+  - Add new students with unique IDs
+  - Store student profiles and GPA
 - Course Registration:
  1. Register students for STEM courses (Python, Cyber Security, Mathematics)
  2.  Maintain a list of courses per student

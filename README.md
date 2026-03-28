@@ -4,15 +4,15 @@
 - User Authentication
 Login system with predefined users: Admin, Teacher, and Student.
 - Student Management
--- Add new students with unique IDs
-Store student profiles and GPA
-Course Registration
-Register students for STEM courses (Python, Cyber Security, Mathematics)
-Maintain a list of courses per student
-Grade Calculator
-Input scores for students and calculate grades (A+, A, B, C, Fail)
-Automatically update student GPA
-View Records
-View detailed student information including registered courses and GPA
-Mini Database
-Uses st.session_state to maintain data during the session
+  Add new students with unique IDs
+  Store student profiles and GPA
+- Course Registration
+  Register students for STEM courses (Python, Cyber Security, Mathematics)
+  Maintain a list of courses per student
+- Grade Calculator
+  Input scores for students and calculate grades (A+, A, B, C, Fail)
+  Automatically update student GPA
+- View Records
+  View detailed student information including registered courses and GPA
+- Mini Database
+  Uses st.session_state to maintain data during the session
